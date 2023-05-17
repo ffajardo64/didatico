@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "Atividades didáticas para o ensino da Estatística"
+  author: "Fabio A. Fajardo Molinares"
+  date: "16/05/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - chap01.qmd
+    - chap02.qmd
+    - references.qmd
+
+language: _language-pt-BR.yml
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
