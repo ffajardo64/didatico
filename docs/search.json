@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Atividades didáticas para o ensino da Estatística",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introdução",
+    "section": "",
+    "text": "A Estatística é uma ciência destinada à coleta, análise e interpretação de dados. Ela envolve vários métodos para a obtenção de informações, organização e apresentação das mesmas, com o objetivo de compreender uma realidade específica ou auxiliar no melhor entendimento das situações de nosso cotidiano. A Estatística está em nosso dia-a-dia, e pode promover a compreensão de grande parte dos acontecimentos do nosso cotidiano, que são de natureza aleatória, possibilitando a identificação de resultados possíveis desses acontecimentos e permitindo melhorar as nossas decisões. A Estatística pode ser aplicada em diversas áreas, como, por exemplo, na demografia, na indústria, na área de recursos humanos, na saúde, nas pesquisas de mercado e de opinião, entre outras. Muitas dificuldades são encontradas no processo de ensino-aprendizagem nos conteúdos relacionados à Estatística. Frequentemente presencia-se a falta de preparação de professores das escolas em relação a conteúdos estatísticos, sendo que docentes de matemática, inclusive os recém-formados, têm recebido poucos conhecimentos sobre Estatística na sua preparação profissional, o que acaba dificultando o ensino dessa área nos estudantes.\nEste projeto tem como objetivo apresentar a importância do jogo pedagógico no processo ensino-aprendizagem de conceitos básicos de Estatística e Probabilidade. Para tanto, foram desenvolvidas várias atividades lúdicas para serem aplicadas por professores das escolas das redes públicas e privadas em todos os ciclos de ensino. As atividades têm a intenção de facilitar a compreensão dos conteúdos de Estatística e Probabilidade contemplados nos Parâmetros Curriculares Nacionais, despertando a pró-atividade dos alunos e deixando mais estimulante e atrativo o estudo dos conceitos, sendo a didática pragmática o elo para o desenvolvimento dos mais variados tipos de habilidades. Todas as atividades são apresentadas em uma linguagem clara e concisa em um único material, que será disponibilizado no final do projeto em formato de livro. Nos últimos anos, a aplicação de tais atividades na Mostra de Profissões da UFES tem favorecido ao aumento da visibilidade da área Estatística perante a sociedade. Dessa forma, há uma maior divulgação e popularização da importância da área Estatística na toma de decisões.\nA Mostra de Proﬁssões da Ufes é uma atividade anual realizada nos quatro campi da Universidade, Goiabeiras, Maruípe, Alegre e São Mateus. Na Mostra, a Ufes abre visitação aos estudantes do ensino médio – das redes pública e particular, Instituto Federal do Espírito Santo (Ifes), Educação de Jovens e Adultos (EJAs) e escolas privadas – para que todos conheçam de perto os cursos e a formação proﬁssional que é oferecida. Cada curso organiza sua programação e o circuito de visitas nos dias da Mostra. Os estudantes podem visitar laboratórios, salas de aulas, projetos e programas desenvolvidos nos cursos e participar de eventos artísticos, palestras, exposição de livros e salas de bate-papo com autores, apresentação de vídeos e outros ambientes informativos.\nA Mostra de Ciências do CCE tem como objetivo integrar efetiva e oficialmente os docentes e discentes de todos os quatro cursos em uma proposta unificada de divulgação e popularização das atividades acadêmicas e objetos de estudos deste centro: as ciências exatas. Este evento tem grande impacto na formação dos estudantes, que atuam diretamente em sua organização e execução. Além disso, o projeto e a construção dos experimentos a serem utilizados que envolvem a participação destes discentes lhes oferece a oportunidade de concretizar o que aprendem nos cursos de graduação com relação aos conceitos teóricos, à prática experimental bem como formas didáticas de apresentação do conteúdo para o público geral. Deste modo, a Mostra de Ciências se encaixa como um complemento importante à formação dos estudantes do CCE. No Brasil existe ainda uma grande carência no que se refere à formação de cientistas e engenheiros; apenas \\(5\\%\\) dos egressos de cursos de nível superior no país são de áreas tecnológicas, o que claramente não contribui muito com o desenvolvimento da nação. Neste contexto a Mostra de Ciências faz parte de um esforço nacional para aumentar o interesse em áreas tecnológicas por parte dos estudantes secundaristas, prestes a ingressar nas universidades, bem como da própria comunidade acadêmica.\nPor fim, pode-se dizer que a Mostra de Ciências do CCE tem ainda um papel fundamental na atração de jovens para os cursos de áreas científicas e tecnológicas da Universidade. Trata- se inclusive de uma excelente oportunidade para esses jovens conhecerem e vivenciarem o ambiente universitário, público, e de reconhecida qualidade.\nNas duas Mostras (de Ciências e de Profissões), o Laboratório de Estatística e Computação Natural (LECON), do Departamento de Estatística, irá coordenar o espaço “Estatística para todos”, no qual serão executadas atividades interativas utilizando conceitos básicos de Probabilidade e Estatística, visando abordar ideias do uso e da importância da Estatística no dia a dia. Dentre os jogos expostos, estão:\n\nQuantos doces tenho na tigela?: O objetivo desta atividade é explorar e introduzir conceitos básicos de amostragem aleatória simples e estimação de quantidades desconhecidas;\nProblema de Monty Hall: O objetivo desta atividade é estimular a pensar na vantagem de tomar decisões, considerando ou não, informações adicionais. Serão apresentados os padrões de escolha dos jogadores que obtiverem sucesso;\nPesquisa eleitoral: bolinhas em pás com diversas quantidades de orifícios simulando amostras com essas quantidades de pessoas de uma população para intenção de voto para as eleições com 2 candidatos (bolinhas vermelhas e brancas) – os resultados são colocados numa planilha bem visível para mostrar o padrão de comportamento das estimativas obtidas nas amostras de diferentes quantidades de eleitores;\nMímica: O objetivo desta atividade é estimular a criatividade para desenhar alguns termos específicos da estatística que são usados no dia a dia, tais como: média, moda, mediana, amplitude, combinação, arranjo, probabilidade, etc;\nTiro ao alvo e Arco e flecha: O objetivo destas atividades é explorar e introduzir conceitos básicos da inferência estatística como precisão, dispersão, acurácia e viés;\nJogos de dados: O objetivo desta atividade é estimular o aluno a prever em qual número o dado vai cair, antes de jogá-lo, e anotar as duas previsões (a que o aluno vai falar e a certa), mostrando que o formato das distribuições nos dois casos serão inversos;\nTábua de Galton: O objetivo desta atividade é estimular a pensar no formato que as bolinhas irão formar quando caírem na tábua, mostrando que a natureza sempre tem um padrão, mesmo que não pareça."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "1  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "chap01.html",
+    "href": "chap01.html",
+    "title": "1  Quantos doces tenho na tingela?",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "chap02.html",
+    "href": "chap02.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "chap01.html#objetivo-do-jogo",
+    "href": "chap01.html#objetivo-do-jogo",
+    "title": "1  Quantos doces tenho na tingela?",
+    "section": "1.1 Objetivo do jogo",
+    "text": "1.1 Objetivo do jogo"
+  },
+  {
+    "objectID": "chap01.html#objetivo-da-atividade",
+    "href": "chap01.html#objetivo-da-atividade",
+    "title": "1  Quantos doces tenho na tigela?",
+    "section": "1.1 Objetivo da atividade",
+    "text": "1.1 Objetivo da atividade\nO jogo aborda um dos conceitos mais importantes da estatística, a amostra. Utilizando técnicas de amostragem com reposição, o objetivo do jogo é estimar quantas balas de uma determinada cor têm dentro da tigela."
+  },
+  {
+    "objectID": "chap01.html#descrição-da-atividade",
+    "href": "chap01.html#descrição-da-atividade",
+    "title": "1  Quantos doces tenho na tigela?",
+    "section": "1.2 Descrição da atividade",
+    "text": "1.2 Descrição da atividade\nO jogador deverá retirar uma amostra de dentro do pote, contendo diferentes tipos de balas, contar a quantidade de balas de uma determinada cor (o “mentor” deverá escolher) e depois ele fará a proporção, de acordo com o tamanho da amostra. Se pessoa preferir, pode repetir esse experimento quantas vezes for necessário, utilizando assim, técnicas de amostragem com reposição. Dessa forma, o jogo estimula a pessoa a conhecer características da população estudando a amostra. Lembrando que, quanto maior o tamanho da amostra, mais representatividade ela terá da população."
+  },
+  {
+    "objectID": "chap01.html#construção",
+    "href": "chap01.html#construção",
+    "title": "1  Quantos doces tenho na tigela?",
+    "section": "1.3 Construção",
+    "text": "1.3 Construção\nA tigela com os doces deverá conter diferentes tipos de balas (com cores diferentes), como mostra a figura a seguir:\n\n\n\n\nFigura 1.1: Tigela transparente com balas coloridas.\n\n\n\nDessa forma, será possível descobrir características da população estudando a amostra. Por exemplo, quantas balas vermelhas têm dentro do pote? Perguntas deste tipo serão respondidas e explicadas nos tópicos a seguir."
+  },
+  {
+    "objectID": "chap01.html#guia-para-execução-da-atividade",
+    "href": "chap01.html#guia-para-execução-da-atividade",
+    "title": "1  Quantos doces tenho na tigela?",
+    "section": "1.4 Guia para execução da atividade",
+    "text": "1.4 Guia para execução da atividade\nO intuito da brincadeira é estimar quantas balas rosas, por exemplo, têm dentro da tigela, introduzindo o raciocínio estatístico. Ela estimula o aluno a desenvolver uma atividade de modo ativo, observar o que acontece, pensar sobre a atividade e consolidar a nova informação, relacionando-a com seu conhecimento anterior.\nInicialmente, o aluno deverá pegar uma parte das balas que estarão dentro do pote (geralmente a medida de uma ou duas mãos fechadas). Logo após, ele deverá realizar a contagem total de balas que ele pegou (tamanho da amostra), contar a quantidade de balas rosas, por exemplo, e depois fazer a proporção, que nada mais é do que dividir a parte (o que eu quero descobrir) pelo todo (o que eu tenho). Por exemplo, suponha que dentro do pote tenha 50 balas rosas, de 200 balas no total. Ao retirar uma amostra de 40 balas, a pessoa obteve 10 balas rosas. Ou seja, uma proporção de \\(\\frac{10}{40} = 0.25\\). Com isso, ela poderia inferir que a amostra está representando bem a população, já que \\(\\frac{50}{200} = 0.25\\), ou seja, se ela pegar a proporção que calculou na amostra e multiplicar pelo total da população, ela encontraria o total de 50 balas rosas, que é a realidade.\nEntretando, devemos pensar da seguinte forma: será que a amostra que eu peguei realmente representa a população? Será que ela não está viciada, ou seja, tem muito mais balas de uma determinada cor do que de outras? Para evitar que problemas assim ocorram, devemos realizar o experimento citado acima mais de uma vez.\nA figura a seguir mostra, na prática, como realizamos essa atividade.\n\n\n\n\nFigura 1.2: Tigela transparente com balas coloridas.\n\n\n\nComo visto acima, as pessoas retiraram uma amostra da tigela e estavam separando as balas por cor para realizar uma contagem melhor. Dessa forma, fica mais claro como é feito o cálculo da proporção e, assim, estimar o número de balas de determinada cor que existe dentro do pote."
+  },
+  {
+    "objectID": "chap01.html#detalhes-técnicos",
+    "href": "chap01.html#detalhes-técnicos",
+    "title": "1  Quantos doces tenho na tigela?",
+    "section": "1.5 Detalhes técnicos",
+    "text": "1.5 Detalhes técnicos\n\n1.5.1 População e Amostra\nUma população ou universo é um conjunto de pessoas, itens ou eventos sobre os quais você quer fazer inferências. Nem sempre é conveniente ou possível examinar todos os membros de uma população inteira. Por exemplo, não é viável pegar todos os eleitores brasileiros para fazer uma pesquisa eleitoral, porque o número de eleitores é muito elevado e levaria anos para entrevistar todo mundo. Além do tempo gasto, muito dinheiro seria necessário para realizar tal pesquisa.\nNo entanto, é possível pegar uma amostra (subconjunto da população) que seja representativa do grupo a ser pesquisado, usando dados públicos. O objetivo é escolher um número limitado de pessoas, cujas características sejam parecidas com a do grupo maior que se queira pesquisar. Para que a pesquisa esteja correta, a amostra precisa corresponder ao universo população) dentro de alguns critérios (escolaridade, idade, gênero, etc). Esses critérios são chamados de variáveis.\nUma amostra é um subconjunto de pessoas, itens ou eventos de uma população maior que você coleta e analisa para fazer inferências. Para representar a população bem, uma amostra deve ser coletada aleatoriamente e ser adequadamente grande. Se a amostra é aleatória e grande o suficiente, você pode usar as informações coletadas a partir da amostra para fazer inferências sobre a população.\n\n\n1.5.2 Amostragem\nAmostragem é um conjunto de técnicas utilizadas para descrever e selecionar amostras, de forma aleatória ou não, e é um fator responsável pela determinação da representatividade da amostra. Quando queremos colher informações de um ou mais aspectos de uma população grande, verifica-se, na maioria das vezes, que é praticamente impossível fazer um levantamento do todo. Assim, tem-se a necessidade de pesquisar apenas uma parte dessa populção. A amostragem se baseia, então, em escolher uma parte (amostra) da população, de tal forma que ela seja a mais representativa possível do todo e, a partir dos resultados obtidos, inferir os resultados sobre a população total.\nDentre todas as técnicas de amostragem, a mais utilizada é a Amostragem Aleatória Simples (AAS). Neste caso, todos os indivíduos da população têm a mesma chance (probabilidade) de serem escolhidos ao acaso (de forma aleatória), normalmente através de um sorteio. O sorteio é uma técnica de seleção aleatória de indivíduos, que garante a probabilidade igual para todos os elementos. Existem dois métodos dentro da AAS, que são listados abaixo:\n\\(\\bullet\\) Com reposição: o mesmo elemento da população pode ser amostrado mais de uma vez. A probabilidade de seleção não se altera.\n\\(\\bullet\\) Sem reposição: cada elemento da população é amostrado uma única vez. A probabilidade de seleção se altera.\nDo ponto de vista da quantidade de informação contida na amostra, a amostragem sem reposição é mais adequada. No entanto, a amostragem com reposição conduz a um tratamento teórico mais simples, pois ele implica que tenhamos independência entre as unidades selecionadas. Portanto, na maioria dos casos de AAS, estamos nos referenciando a uma amostragem aleatória simples com reposição, que é o caso desse jogo."
+  },
+  {
+    "objectID": "chap02.html#objetivo-da-atividade",
+    "href": "chap02.html#objetivo-da-atividade",
+    "title": "2  Monty Hall",
+    "section": "2.1 Objetivo da atividade",
+    "text": "2.1 Objetivo da atividade"
+  },
+  {
+    "objectID": "chap02.html#descrição-da-atividade",
+    "href": "chap02.html#descrição-da-atividade",
+    "title": "2  Monty Hall",
+    "section": "2.2 Descrição da atividade",
+    "text": "2.2 Descrição da atividade"
+  },
+  {
+    "objectID": "chap02.html#construção",
+    "href": "chap02.html#construção",
+    "title": "2  Monty Hall",
+    "section": "2.3 Construção",
+    "text": "2.3 Construção"
+  },
+  {
+    "objectID": "chap02.html#guia-para-execução-da-atividade",
+    "href": "chap02.html#guia-para-execução-da-atividade",
+    "title": "2  Monty Hall",
+    "section": "2.4 Guia para execução da atividade",
+    "text": "2.4 Guia para execução da atividade"
+  },
+  {
+    "objectID": "chap02.html#detalhes-técnicos",
+    "href": "chap02.html#detalhes-técnicos",
+    "title": "2  Monty Hall",
+    "section": "2.5 Detalhes técnicos",
+    "text": "2.5 Detalhes técnicos"
+  }
+]
